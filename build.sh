@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t marvellzan/nginxv2:latest
+docker build -t marvellzan/nginxv2:latest .
